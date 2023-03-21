@@ -1,2 +1,4 @@
-# Ola-Mundo
- Primeirro repositorio do curso de git 
+# Ola,Mundo
+ Primeiro repositorio do curso de git 
+
+ Repositório criado ddurante uma  aula ao vivo 
